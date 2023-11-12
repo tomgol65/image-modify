@@ -11,8 +11,11 @@ python main.py -i <input_image_path> -o <output_image_path> -t <transformation_t
 
 ## Arguments
 -i or --input_path: Path to the input image (required).
+
 -o or --output_path: Path to the output image (required).
+
 -t or --transformation_type: Type of transformation. Choose from 'slic', 'quickshift', 'watershed', or other available methods (default: 'watershed', required).
+
 -d or --dpi: Desired DPI (required).
 
 ## Examples
